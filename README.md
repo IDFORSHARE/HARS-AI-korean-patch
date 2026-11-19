@@ -1,2 +1,24 @@
-# HARS-AI-korean-patch
-HIROTONFA’s American Revolution Smuggler의 한국어 패치 공유용
+# HIROTONFA's American Revolution Smuggler 한글패치
+
+> ## 📥 다운로드는 오른쪽 [Releases]](https://github.com/IDFORSHARE/HARS-AI-korean-patch/releases/tag/%ED%95%9C%ED%8C%A8%EC%9A%A9)에서!
+> 초록색 **Code** 버튼으로 받는 건 패치 파일이 아닙니다.
+> Releases에서 최신 버전의 **zip 파일**을 받아 주세요.
+> 오리지널과 모드 둘 중 하나만 받아주세요.
+
+## 설치 방법
+1. 스팀 라이브러리에서 게임 우클릭 → 관리 → **로컬 파일 보기**
+2. 받은 zip 압축을 풀고, 안의 내용물을 열린 게임 폴더에 **그대로 덮어쓰기**
+3. 게임 실행
+
+## 게임 업데이트 후
+얼리 액세스 게임이라 업데이트가 잦습니다.
+업데이트 후 영어로 돌아갔다면 위 설치 과정을 한 번 더 해 주세요.
+새로 추가된 대사는 번역이 갱신될 때까지 영어로 나올 수 있습니다.
+
+## 오역·오탈자 제보
+위쪽 **Issues** 탭에 남겨 주세요. (GitHub 계정 필요)
+스크린샷과 어느 장면인지 적어 주시면 고치기 쉽습니다.
+
+## 안내
+- 비공식 팬 번역이며, 원작자와 관련이 없습니다.
+- 게임 원본 파일은 포함되어 있지 않습니다. 정품 게임이 필요합니다.
