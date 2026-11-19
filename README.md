@@ -1,6 +1,6 @@
 # HIROTONFA's American Revolution Smuggler 한글패치
 
-> ## 📥 다운로드는 오른쪽 [Releases]]((https://github.com/IDFORSHARE/HARS-AI-korean-patch/releases))에서!
+> ## 📥 다운로드는 오른쪽 [Releases]] ((https://github.com/IDFORSHARE/HARS-AI-korean-patch/releases))
 > 초록색 **Code** 버튼으로 받는 건 패치 파일이 아닙니다.
 > Releases에서 최신 버전의 **zip 파일**을 받아 주세요.
 > 오리지널과 모드 둘 중 하나만 받아주세요.
